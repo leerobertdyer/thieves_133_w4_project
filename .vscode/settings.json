@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "Thieves New And Used Auto",
+            "connectString": "postgres://jnjlqrhe:tlETBtmEP9Y_wUVbOKdyHts3wwz2xYNq@suleiman.db.elephantsql.com/jnjlqrhe"
+        }
+    ]
+}
